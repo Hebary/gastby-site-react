@@ -1,6 +1,6 @@
 # Hotel Gatsby
 
-_Builded on Gatsby using @emotion, graphql and More!_
+_Builded on Gatsby using @emotion, graphql, DatoCMS and More!_
 
 ## Test 🚀
 
